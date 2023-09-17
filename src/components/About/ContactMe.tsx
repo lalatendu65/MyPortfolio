@@ -1,4 +1,4 @@
-import React from "react";
+
 import location from "../../Assets/location.png";
 import email from "../../Assets/email.png";
 import mobile from "../../Assets/phone.png";

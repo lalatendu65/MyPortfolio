@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/FB_IMG_1590262998033.jpg";
 import Tilt from "react-parallax-tilt";

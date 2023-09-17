@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import chatify from "../../Assets/about.png";
